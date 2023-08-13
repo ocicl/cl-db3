@@ -3,8 +3,7 @@
 A Common Lisp lib to read dbf files version 3.
 
 |---------+-------------------------------------------|
-| source  | git:https://github.com/dimitri/cl-db3.git   |
-| commit  | 38e5ad3  |
-| systems | cl-db3 |
+| source  | git:https://github.com/dimitri/cl-db3.git |
+| commit  | 38e5ad3                                   |
+| systems | (db3)                                     |
 |---------+-------------------------------------------|
-
